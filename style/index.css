@@ -5,6 +5,11 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
+.container{
+	width: 100vw;
+	height:100vh;
+	background-color: rgba(0, 0, 0, 0.6);
+}
 :root {
 	--dark: #374151;
 	--darker: #1F2937;
